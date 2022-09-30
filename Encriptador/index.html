@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Combo&family=Inter&family=Orbitron&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="Img/hacker_117746.ico" type="image/x-icon">
+    <title>Encriptador</title>
+</head>
+
+<body>
+    <nav>
+        <img class="logo" src="Img/alien.png" alt="logoAlura">
+        <h1>Encriptador</h1>
+    </nav>
+
+
+    <main>
+
+        <section class="cuadro1">
+
+            <textarea class="frase" name="frase" id="frase" cols="20" rows="8" style="border:none"
+                placeholder="Ingrese el texto aquí"></textarea>
+
+            <section class="contenido-btns">
+
+                <div class="indicacion">
+                    <img src="Img/Vectori.png" alt="">
+                    <p>Solo letras minúsculas y sin acentos</p>
+                </div>
+
+                <div class="botones">
+                    <button class="botonEncriptar" onclick="btnEncriptar()">Encriptar</button>
+                    <button class="botonDesencriptar" onclick="btnDesencriptar()">Desencriptar</button>
+
+                </div>
+
+            </section>
+        </section>
+
+        <section class="cuadro2">
+            <textarea name="parrafoNegrito" id="parrafoNegrito" class="parrafoNegrito" cols="18"
+                rows="3">Esperando texto a convertir. . . </textarea>
+            <img class="muñeco" id="muñeco" src="Img/cifrado.png" alt="" srcset="">
+            <button class="btn-copiar" onclick="btncopiar()">Copiar</button>
+        </section>
+
+    </main>
+    <footer>
+        <p>Desarrollado por Ixshel Corona &#169 2022 </p>
+        <a href="https://github.com/IxshelC" target="_blank"><i class="fa-brands fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/ixshelcorona-ti/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+
+
+    </footer>
+
+    <script src="https://kit.fontawesome.com/84418e37b1.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
