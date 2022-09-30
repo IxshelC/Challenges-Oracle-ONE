@@ -29,11 +29,11 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 ### 🖥 Encriptador versión Desktop
 
-![Encriptador](Img\Encriptador.gif)
+<p align="Center"><img src="Img/Encriptador.gif"> </p>
 
 ### 📲 Encriptador versión móvil
 
-<p align="Center"><img src="Img\Encriptador2.gif"> </p
+<p align="Center"><img src="Img\Encriptador2.gif"> </p>
 
 ## 📦 Despliegue
 

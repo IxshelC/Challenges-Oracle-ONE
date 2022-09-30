@@ -7,7 +7,8 @@
 * 🔗 [Encriptador](https://ixshelc.github.io/Challenges-Oracle-ONE/Encriptador/index.html)
 
 
-![Encriptado](Encriptador\Img\Encriptador.gif)
+<p align="Center"><img src="Encriptador/Img/Encriptador.gif"> </p>
+
 
 ## ⭐ Ahorcado 🛠️
 
