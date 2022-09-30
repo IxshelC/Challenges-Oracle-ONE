@@ -37,7 +37,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 ## 📦 Despliegue
 
-* 🔗 [Encriptador](https://ixshelc.github.io/Challenges-Oracle-ONE/Encriptador/index.html)
+* 🔗[Encriptador](https://ixshelc.github.io/Challenges-Oracle-ONE/Encriptador/index.html)
 
 ## 🛠 Tecnologías utilizadas
 
@@ -45,9 +45,12 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 * CSS3
 * JavaScript
 
+## 🏆 Insignia
+<p align="center"> <img src="Img/insigniaEncriptador.png" width="400px"> </p>
+
 ## Contacto
 
-<a href="https://www.linkedin.com/in/ixshelcorona-ti/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"> </a><a href="https://www.instagram.com/ixicrown/?next=%2F"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a><a href="https://www.facebook.com/profile.php?id=100081261308881"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"></a>
+`<a href="https://www.linkedin.com/in/ixshelcorona-ti/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">` `</a><a href="https://www.instagram.com/ixicrown/?next=%2F">``<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>``<a href="https://www.facebook.com/profile.php?id=100081261308881"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">``</a>`
 
 <hr>
 
